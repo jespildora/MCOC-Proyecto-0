@@ -1,5 +1,6 @@
 # MCOC-Proyecto-0
 En este proyecto se espera apreciar el problema de "loss of significance".
+
 "Loss of significance, es un efecto indeseable de los calculos aritméticos usando precisión finita, tales como puntos flotantes".
 
 El programa calcula la varianza de una muestra con distribución uniforme, de dos formas, una es usando la función scipy.var(), y la otra es usando operaciones aritméticas.
