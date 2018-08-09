@@ -26,7 +26,7 @@ while t<=5:
 
 
     suma = scipy.sum(lista)
-print 'hola'
+
 
     sumatoria=0
 #Se calculan las diferencias cuadraticas entre los elementos de la lista y el promedio
